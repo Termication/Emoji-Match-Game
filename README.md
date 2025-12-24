@@ -104,4 +104,3 @@ emoji-match-game/
 </details>
 
 Enjoy the game and feel free to contribute or suggest improvements!
-
